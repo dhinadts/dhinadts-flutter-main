@@ -6,7 +6,8 @@
 *.swp
 .buildlog/
 .history
-
+.fvmrc
+settings.json
 
 
 # Flutter repo-specific
